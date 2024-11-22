@@ -1,8 +1,8 @@
 
 
-[![shilpac131](:octocat:)](https://github.com/shilpac131)
+[![GitHub](:octocat:)](https://github.com/shilpac131)
 
-Hi 	:clap:, I'm currently pursuing my Master's Degree in Intelligent Systems, at School of Computing and Electrical Engineering at IIT Mandi, India
+Hi 👏, I'm currently pursuing my Master's Degree in Intelligent Systems, at School of Computing and Electrical Engineering at IIT Mandi, India
 
 #### Email
 shilpac131[at]gmail.com, s22004[at]students.iitmandi.ac.in
