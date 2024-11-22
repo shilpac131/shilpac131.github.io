@@ -1,6 +1,7 @@
 
 
-[![GitHub](:octocat:)](https://github.com/shilpac131)
+[![shilpac131](https://github.com/edent/SuperTinyIcons/blob/master/images/png/github.png)](https://github.com/shilpac131)
+
 
 Hi 👏, I'm currently pursuing my Master's Degree in Intelligent Systems, at School of Computing and Electrical Engineering at IIT Mandi, India
 
