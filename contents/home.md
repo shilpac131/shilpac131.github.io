@@ -8,7 +8,7 @@ Hi 👏, I'm currently pursuing my Master's Degree in Intelligent Systems, at Sc
 #### Email
 shilpac131[at]gmail.com, s22004[at]students.iitmandi.ac.in
 
-#### Education:octocat:
+#### Education
 M.Tech by Research., Intelligent Systems, Indian Institute of Technology Mandi (IIT Mandi), 2022—2025 (expected).\
 B.E., Computer Engineering, University of Mumbai, 2016—2020.
 
