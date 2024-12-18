@@ -247,9 +247,9 @@ papertitle {
 }
 
 #header .image.avatar {
-  margin: 0 0 1em 0;   /* Adds space below the avatar */
-  width: 8.00em;        /* Controls the avatar's size (can adjust this) */
-  height: 8.00em;       /* Ensures the height matches the width to keep the circular shape */
+  margin: 0 0 1em 0;       /* Adds space below the avatar */
+  width: 12.00em;          /* Increased size - change this to make the avatar larger */
+  height: 12.00em;         /* Set height to match the increased width, keeping it circular */
 }
 h3, h4, h5, h6 {
   font-weight: 600;
