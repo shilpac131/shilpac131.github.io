@@ -20,7 +20,7 @@ twitter: https://twitter.com/cosmic_arrays
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/myphoto1.png
+avatar: ./assets/img/myphoto_resize.png
 favicon: ./assets/img/ai-icon.png
 favicon_dark: ./assets/img/ai-icon.png
 
