@@ -6,10 +6,6 @@ layout: homepage
 I am currently pursuing my joint PhD program at EURECOM and TU Berlin in Privacy for Smart Speech Technology.
 Prior to this I completed my Mtech by research at Indian Institute of Technology Mandi (IIT Mandi) in Intelligent Systems. My thesis was on "Advancing speech deepfake detection using speaker information and attack agnoistic methods".
 
-I am deeply research-oriented, with a strong interest in deep learning and its applications. While my current work revolves around speech processing, my passion for exploring cutting-edge technologies drives me to extend my expertise beyond this domain. I aspire to pursue a PhD in deep learning to contribute to solving challenging problems across various fields.
-
-My ultimate goal is to create AI technologies that positively impact society—developing innovative solutions that not only address real-world challenges but also promote progress, inclusivity, and better quality of life for all.
-
 ## Research Interests
 
 - **deep learning**
